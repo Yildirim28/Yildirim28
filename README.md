@@ -2,10 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Hi+there!+%F0%9F%91%8B;I'm+Md.+Shamim+Osman+Chowdhury;A+Passionate+Tech+Enthusiast;Building+Awesome+Web+Apps" alt="Typing SVG" />
 </div>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Yildirim28&label=Profile%20views&color=0e75b6&style=flat-square" alt="Yildirim28" />
-</p>
-
 <div align="center">
   <img src="https://media.giphy.com/media/qgQUggCGvnPZG/giphy.gif" width="300" alt="Coding GIF">
 </div>
