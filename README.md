@@ -13,16 +13,12 @@
 <br/>
 
 ## 👨‍💻 About Me
-* 🔭 I’m currently working on **building awesome web applications**
+* 🔭 I’m currently working on **STQA (Software Testing and Quality Assurance)**
 * 🌱 I’m currently learning **advanced software development techniques**
 * 💡 I love exploring new technologies and building cool stuff.
 * 🚀 All of my projects are available at [My Portfolio](https://yildirim28.github.io/MyPortfolio/)
 * 📫 How to reach me: **shamimosman344@gmail.com**
 
-## 🏆 GitHub Trophies
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Yildirim28&theme=radical&no-frame=true&no-bg=true&margin-w=15" alt="Yildirim28 Trophies" />
-</p>
 
 ## 🛠️ Languages and Tools
 <p align="center">
