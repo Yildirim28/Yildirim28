@@ -1,0 +1,48 @@
+<svg width="600" height="200" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .slide {
+      animation: fade 15s infinite;
+      opacity: 0;
+    }
+    .slide-1 { animation-delay: 0s; }
+    .slide-2 { animation-delay: 5s; }
+    .slide-3 { animation-delay: 10s; }
+    
+    @keyframes fade {
+      0%, 25% { opacity: 1; }
+      33.33%, 91.66% { opacity: 0; }
+      100% { opacity: 1; }
+    }
+    .card { fill: #0d1117; stroke: #e34c26; stroke-width: 2; rx: 10; }
+    .title { font: bold 24px 'Segoe UI', Ubuntu, sans-serif; fill: #58a6ff; }
+    .desc { font: 16px 'Segoe UI', Ubuntu, sans-serif; fill: #c9d1d9; }
+    .tech { font: 14px 'Segoe UI', Ubuntu, sans-serif; fill: #8b949e; }
+  </style>
+
+  <!-- Slide 1 -->
+  <g class="slide slide-1">
+    <rect x="10" y="10" width="580" height="180" class="card" />
+    <text x="30" y="50" class="title">📂 FindYourPain</text>
+    <text x="30" y="90" class="desc">A web application dedicated to identifying and managing pain points.</text>
+    <text x="30" y="120" class="desc">Built for a better healthcare experience.</text>
+    <text x="30" y="160" class="tech">🟡 JavaScript   ⭐️ 1   🔱 2</text>
+  </g>
+
+  <!-- Slide 2 -->
+  <g class="slide slide-2">
+    <rect x="10" y="10" width="580" height="180" class="card" />
+    <text x="30" y="50" class="title">📂 Medisoft--Telemedicine-Healthcare</text>
+    <text x="30" y="90" class="desc">A comprehensive telemedicine platform connecting patients</text>
+    <text x="30" y="120" class="desc">and doctors online seamlessly.</text>
+    <text x="30" y="160" class="tech">🟡 JavaScript   ⭐️ 1   🔱 4</text>
+  </g>
+
+  <!-- Slide 3 -->
+  <g class="slide slide-3">
+    <rect x="10" y="10" width="580" height="180" class="card" />
+    <text x="30" y="50" class="title">📂 MyPortfolio</text>
+    <text x="30" y="90" class="desc">My personal developer portfolio showcasing my skills,</text>
+    <text x="30" y="120" class="desc">projects, and journey as a Tech Enthusiast.</text>
+    <text x="30" y="160" class="tech">🔴 HTML</text>
+  </g>
+</svg>
