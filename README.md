@@ -3,40 +3,79 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/ne3xrYlWtQFtC/giphy.gif" width="300" alt="Data Science Math GIF">
+  <img src="https://media.giphy.com/media/ne3xrYlWtQFtC/giphy.gif" width="250" alt="Data Science Math GIF" style="border-radius: 15px;">
 </div>
 
 <br/>
 
-## 👨‍💻 About Me
-* 🔭 I’m currently working on **STQA (Software Testing and Quality Assurance)**
-* 🌱 I’m currently learning **advanced software development techniques**
-* 💡 I love exploring new technologies and building cool stuff.
-* 🚀 All of my projects are available at [My Portfolio](https://yildirim28.github.io/MyPortfolio/)
-* 📫 How to reach me: **shamimosman344@gmail.com**
-
-
-## 🛠️ Languages and Tools
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,react,nodejs,git,github,vscode,figma&perline=9" alt="Skills" />
+<div align="center">
+  <a href="mailto:shamimosman344@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+  <a href="https://yildirim28.github.io/MyPortfolio/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
+  </a>
+  <a href="https://www.facebook.com/share/17bgqWMaWD/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+</div>
 
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yildirim28&theme=radical&hide_border=true&background=0d1117" alt="Yildirim28 Streak" />
-</p>
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
 
-## 🚀 Featured Projects
-<p align="center">
-  <img src="./projects-slideshow.svg" alt="Projects Slideshow" />
-</p>
+## 👨‍💻 About Me
+
+* 🔭 **Focusing on:** Software Testing and Quality Assurance (**STQA**) & full-stack development.
+* 🌱 **Currently learning:** Advanced software development techniques and modern testing frameworks.
+* 💡 **Philosophy:** I love breaking things in testing to build robust, bug-free web apps.
+* 🚀 **Explore my work:** Check out my latest projects on [My Portfolio](https://yildirim28.github.io/MyPortfolio/).
+* 📫 **Reach out:** Feel free to contact me at **shamimosman344@gmail.com**.
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
+## 🛠️ Tech Arsenal
+
+<div align="center">
+  <h3>Frontend & Design</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,react,figma&theme=dark" alt="Frontend Skills" />
+  </a>
+  
+  <br><br>
+
+  <h3>Backend & Tools</h3>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,git,github,vscode&theme=dark" alt="Backend Skills" />
+  </a>
+</div>
 
 <br/>
-<h3 align="center">Let's Connect!</h3>
-<p align="center">
-  <a href="https://www.facebook.com/share/17bgqWMaWD/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook link" height="40" width="40" /></a>
-  <!-- Add your LinkedIn or Twitter below by replacing the # with your actual links -->
-  <a href="#" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="your-linkedin" height="40" width="40" /></a>
-</p>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Yildirim28&show_icons=true&theme=radical&hide_border=true&bg_color=0d1117" alt="Yildirim28 Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yildirim28&theme=radical&hide_border=true&background=0d1117" alt="Yildirim28 Streak" />
+</div>
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
+
+## 🚀 Featured Projects
+<div align="center">
+  <img src="./projects-slideshow.svg" alt="Projects Slideshow" />
+  <br/>
+  <i>Hover or click to explore my recent work!</i>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0E75B6&height=100&section=footer" width="100%"/>
+</div>
