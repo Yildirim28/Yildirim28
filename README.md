@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="300" alt="QA Testing GIF">
+  <img src="https://media.giphy.com/media/ne3xrYlWtQFtC/giphy.gif" width="300" alt="Data Science Math GIF">
 </div>
 
 <br/>
