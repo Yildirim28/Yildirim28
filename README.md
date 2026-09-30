@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://media.giphy.com/media/3oKIPnAiaCRi8b9tE0/giphy.gif" width="300" alt="Pixel Art Coding GIF">
+  <img src="https://media.giphy.com/media/11ISwbgCxEzMyY/giphy.gif" width="300" alt="QA Testing GIF">
 </div>
 
 <br/>
