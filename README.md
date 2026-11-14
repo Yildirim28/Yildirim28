@@ -12,7 +12,7 @@
   <a href="mailto:shamimosman344@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://yildirim28.github.io/MyPortfolio/" target="_blank">
+  <a href="https://osman28.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-0E75B6?style=for-the-badge&logo=Web&logoColor=white" alt="Portfolio" />
   </a>
   <a href="https://www.facebook.com/share/17bgqWMaWD/" target="_blank">
