@@ -30,7 +30,7 @@
 * 🔭 **Focusing on:** Software Testing and Quality Assurance (**STQA**) & full-stack development.
 * 🌱 **Currently learning:** Advanced software development techniques and modern testing frameworks.
 * 💡 **Philosophy:** I love breaking things in testing to build robust, bug-free web apps.
-* 🚀 **Explore my work:** Check out my latest projects on [My Portfolio](https://yildirim28.github.io/MyPortfolio/).
+* 🚀 **Explore my work:** Check out my latest projects on [My Portfolio](https://osman28.vercel.app/).
 * 📫 **Reach out:** Feel free to contact me at **shamimosman344@gmail.com**.
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%" alt="divider" />
